@@ -6,8 +6,8 @@
     
     "version" : "1.20",
     "requires" : "3.2",
-    "tested" : "4.3.1",
-    "last_updated" : "2015-11-05 16:17:00",
+    "tested" : "4.4.2",
+    "last_updated" : "2016-02-18 16:17:00",
     "upgrade_notice" : "Here's why you should upgrade...",
     
     "author" : "tuyennv",
@@ -16,7 +16,7 @@
     "sections" : {
         "description" : "TZ Plus Gallery - Display WordPress albums, social gallery like Facebook, Flickr, Instagram and Google+. ",
         "installation" : "<ol><li>Login to your website and go to the Plugins.</li><li>Click the Add New button.</li><li>Under Install Plugins, click the Upload Plugin.</li><li>Select the plugin zip file (tz-plus-gallery.zip) from your computer then click the Install Now button.</li><li>You should see a message stating that the plugin was installed successfully.</li><li>Click the Activate Plugin.</li></ol>",
-        "changelog" : "<p><strong>Version 1.1.2</strong></p><ol><li>Support WordPress Albums.</li><li>Fixed Conflict with Bootstrap menu in mobile layout.</li><li>Fixed load photo when click to albums.</li>"
+        "changelog" : "<p><strong>Version 1.20</strong></p><ol><li>Fix limit albums facebook.</li><li>Add loadmore button.</li><li>Add custom css box.</li>"
     },  
      "banners" : {
 		"low" : "http://wordpress.templaza.net/update/plusgallery/banner-772x250.jpg",
