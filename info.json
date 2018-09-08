@@ -4,10 +4,10 @@
     "homepage" : "https://www.templaza.com/tz_membership/downloadinfo/168-tz-plus-gallery-pro.html",
     "download_url" : "",
     
-    "version" : "2.2",
+    "version" : "2.2.1",
     "requires" : "3.2",
-    "tested" : "4.9.6",
-    "last_updated" : "2018-07-02 16:17:00",
+    "tested" : "4.9.8",
+    "last_updated" : "2019-09-08 16:17:00",
     "upgrade_notice" : "Here's why you should upgrade...",
     
     "author" : "tuyennv",
